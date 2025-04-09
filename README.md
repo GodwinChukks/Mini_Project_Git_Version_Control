@@ -15,3 +15,18 @@
 5. Helps in debugging by comparing previous working versions
 
 6. Git helps you stay organized, collaborate confidently, and never lose your work — it's an essential tool for any developer
+
+# Terminal Screenshot
+
+![Terminal screenshot](Terminal_Screenshot.PNG)
+
+
+# Github Dashboard
+
+![Github Dasboard](Github_Dashboard.PNG)
+
+
+# Github Repository url
+
+[Github Repository url](https://github.com/GodwinChukks/Mini_Project_Git_Version_Control)
+
